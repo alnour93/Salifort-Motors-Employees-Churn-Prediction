@@ -45,27 +45,3 @@ This project aims to provide data-driven insights and recommendations for the HR
 
 By implementing these recommendations, Salifort Motors can enhance employee satisfaction, reduce turnover, and foster a positive work environment.
 
-## Repository Structure
-- `data/`: Contains the dataset used for analysis.
-- `notebooks/`: Jupyter notebooks containing the data analysis and model building process.
-- `README.md`: Overview of the project, workflow, conclusions, and recommendations.
-
-## Usage
-1. Clone the repository to your local machine.
-2. Navigate to the `notebooks/` directory.
-3. Open the Jupyter notebooks to explore the data analysis and model building process.
-
-## Requirements
-- Python 3.x
-- Jupyter Notebook
-- Pandas
-- Scikit-learn
-- Matplotlib
-- Seaborn
-- XGBoost (optional, if used in the analysis)
-
-## Authors
-- [Your Name](https://github.com/yourusername)
-
-## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
